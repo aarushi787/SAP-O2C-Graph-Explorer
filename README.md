@@ -1,4 +1,4 @@
-# ⚡ Dodge AI — SAP Order-to-Cash Graph Explorer
+# ⚡SAP Order-to-Cash Graph Explorer
 
 A **context graph system with an LLM-powered query interface** built for the Dodge AI Forward Deployed Engineer take-home assignment.
 
