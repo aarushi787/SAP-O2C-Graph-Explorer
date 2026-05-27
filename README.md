@@ -137,7 +137,7 @@ Broken O2C flows — billed but no journal entry
 # Prerequisites: Node.js 18+, Anthropic API key (sk-ant-...)
 
 git clone <repo-url>
-cd dodge-ai-sap-o2c
+cd -ai-sap-o2c
 npm install
 npm run build
 npm start
@@ -152,7 +152,7 @@ Your API key is stored in `sessionStorage` only — never persisted or logged.
 ## Project Structure
 
 ```
-dodge-ai-sap-o2c/
+-ai-sap-o2c/
 ├── src/
 │   ├── App.jsx          # React app — graph + chat + API key modal (728 lines)
 │   └── main.jsx         # Entry point
