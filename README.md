@@ -1,6 +1,6 @@
 # ⚡SAP Order-to-Cash Graph Explorer
 
-A **context graph system with an LLM-powered query interface** built for the Dodge AI Forward Deployed Engineer take-home assignment.
+A **context graph system with an LLM-powered query interface** built for the Forward Deployed Engineer take-home assignment.
 
 ---
 
